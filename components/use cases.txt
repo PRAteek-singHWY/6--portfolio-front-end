@@ -1,0 +1,19 @@
+Social-Media-icons ---> react social icons
+Animations ---> framer motion
+tracking-[custom value to show FI=ULL STACK..]
+
+* w-screen ->   width of each img is as of the screen
+* flex-shrink-0 -> no shrinking
+* snap-center -> on vertical or horizontal snap it it aligns at center
+* underline decoration- // color //
+*   initial={{
+              y: -300,
+              opacity: 0
+            }}
+           transition={{duration: 1.2}}
+           whileInView={{opacity:1,y:0}}
+           viewport={{once:true}}
+
+//this here brings in the things from a distance of -300 top//
+* hooks form
+  * outline-none removes the blue border from the input in form
